@@ -7,5 +7,3 @@ function leapYear(year) {
         console.log('no');
     }
 }
-
-leapYear(1984);

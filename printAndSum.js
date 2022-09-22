@@ -14,5 +14,3 @@ function printAndSum(start, end) {
         console.log(`Sum: ${sum}`);
 
 }
-
-printAndSum(5, 10);
